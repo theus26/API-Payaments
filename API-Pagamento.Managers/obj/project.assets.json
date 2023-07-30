@@ -32,9 +32,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\Matheus\\Full-Stack\\Prova Tecnica\\Back-End\\API-Pagamento\\API-Pagamento.Managers\\API-Pagamento.Managers.csproj",
-      "projectName": "API-Pagamento.Managers",
-      "projectPath": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\Matheus\\Full-Stack\\Prova Tecnica\\Back-End\\API-Pagamento\\API-Pagamento.Managers\\API-Pagamento.Managers.csproj",
+      "projectUniqueName": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\Matheus\\Full-Stack\\Prova Tecnica\\Back-End\\API-Pagamento\\API-Pagamento.Managers\\API-Pagamento.Manager.csproj",
+      "projectName": "API-Pagamento.Manager",
+      "projectPath": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\Matheus\\Full-Stack\\Prova Tecnica\\Back-End\\API-Pagamento\\API-Pagamento.Managers\\API-Pagamento.Manager.csproj",
       "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\Matheus\\Full-Stack\\Prova Tecnica\\Back-End\\API-Pagamento\\API-Pagamento.Managers\\obj\\",
       "projectStyle": "PackageReference",

@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API-Pagamento", "API-Pagamento\API-Pagamento.csproj", "{7994F802-D97D-40BF-8777-97AB077DF7AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API-Pagamento", "API-Pagamento\API-Pagamento.csproj", "{7994F802-D97D-40BF-8777-97AB077DF7AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API-Pagamento.Manager", "API-Pagamento.Manager\API-Pagamento.Manager.csproj", "{3C4CD0EB-6F2D-4D99-9A27-CE299B36723A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API-Pagamento.DTO", "API-Pagamento.DTO\API-Pagamento.DTO.csproj", "{E4312427-37AF-4F47-9134-503E7215EE37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API-Pagamento.Manager", "API-Pagamento.Managers\API-Pagamento.Manager.csproj", "{9BBDF12F-EDA2-4135-BEBC-DE454C9B4B03}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +19,14 @@ Global
 		{7994F802-D97D-40BF-8777-97AB077DF7AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7994F802-D97D-40BF-8777-97AB077DF7AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7994F802-D97D-40BF-8777-97AB077DF7AF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3C4CD0EB-6F2D-4D99-9A27-CE299B36723A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3C4CD0EB-6F2D-4D99-9A27-CE299B36723A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3C4CD0EB-6F2D-4D99-9A27-CE299B36723A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3C4CD0EB-6F2D-4D99-9A27-CE299B36723A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4312427-37AF-4F47-9134-503E7215EE37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4312427-37AF-4F47-9134-503E7215EE37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4312427-37AF-4F47-9134-503E7215EE37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4312427-37AF-4F47-9134-503E7215EE37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BBDF12F-EDA2-4135-BEBC-DE454C9B4B03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BBDF12F-EDA2-4135-BEBC-DE454C9B4B03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BBDF12F-EDA2-4135-BEBC-DE454C9B4B03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BBDF12F-EDA2-4135-BEBC-DE454C9B4B03}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

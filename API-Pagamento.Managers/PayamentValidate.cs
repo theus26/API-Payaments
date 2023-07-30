@@ -3,7 +3,7 @@ using API_Pagamento.Manager.Interfaces;
 
 namespace API_Pagamento.Manager
 {
-    internal class PayamentValidate : IPayamentValidate
+    public class PayamentValidate : IPayamentValidate
     {
         /// <summary>
         /// Esse é um metodo da classe acima que valida a entrada do valor da compra e retorna se a compra é APROVADA ou REJEITADA

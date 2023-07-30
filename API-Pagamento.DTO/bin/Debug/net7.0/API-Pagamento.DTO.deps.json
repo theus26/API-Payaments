@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "API-Pagamento.DTO/1.0.0": {
+        "runtime": {
+          "API-Pagamento.DTO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "API-Pagamento.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
