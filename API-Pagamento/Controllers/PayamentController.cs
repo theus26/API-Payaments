@@ -1,12 +1,26 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿
+using API_Pagamento.DTO;
+using API_Pagamento.Manager.Interfaces;
+using Microsoft.AspNetCore.Mvc;
 
 namespace API_Pagamento.Controllers
 {
-    public class PayamentController : Controller
+    [ApiController]
+    [Route("[controller]/[action]")]
+    public class PayamentController : ControllerBase
     {
-        public IActionResult Index()
+        private readonly IPayamentValidate
+
+        [HttpGet]
+        public IActionResult HelthCheck()
         {
-            return View();
+            return Ok("I'm alive and working");
+        }
+
+        [HttpPost]
+        public IActionResult Compras(PayamentDTO payament)
+        {
+            return Ok(payament);
         }
     }
 }

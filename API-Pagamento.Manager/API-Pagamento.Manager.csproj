@@ -7,4 +7,11 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\API-Pagamento.DTO\API-Pagamento.DTO.csproj" />
+    <ProjectReference Include="..\API-Pagamento\API-Pagamento.csproj" />
+  </ItemGroup>
+
+  
+
 </Project>

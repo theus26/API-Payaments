@@ -1,4 +1,6 @@
 ﻿
+
+
 using API_Pagamento.DTO;
 
 namespace API_Pagamento.Manager.Interfaces

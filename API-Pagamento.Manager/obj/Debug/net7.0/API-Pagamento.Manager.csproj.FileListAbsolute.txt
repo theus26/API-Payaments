@@ -1,0 +1,5 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\Matheus\Full-Stack\Prova Tecnica\Back-End\API-Pagamento\API-Pagamento.Manager\obj\Debug\net7.0\API-Pagamento.Manager.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Matheus\Full-Stack\Prova Tecnica\Back-End\API-Pagamento\API-Pagamento.Manager\obj\Debug\net7.0\API-Pagamento.Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\Matheus\Full-Stack\Prova Tecnica\Back-End\API-Pagamento\API-Pagamento.Manager\obj\Debug\net7.0\API-Pagamento.Manager.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Matheus\Full-Stack\Prova Tecnica\Back-End\API-Pagamento\API-Pagamento.Manager\obj\Debug\net7.0\API-Pagamento.Manager.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\Matheus\Full-Stack\Prova Tecnica\Back-End\API-Pagamento\API-Pagamento.Manager\obj\Debug\net7.0\API-Pagamento.Manager.csproj.CoreCompileInputs.cache

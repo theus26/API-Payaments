@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API-Pagamento", "API-Pagamento\API-Pagamento.csproj", "{7994F802-D97D-40BF-8777-97AB077DF7AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API-Pagamento.Manager", "API-Pagamento.Manager\API-Pagamento.Manager.csproj", "{3C4CD0EB-6F2D-4D99-9A27-CE299B36723A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{7994F802-D97D-40BF-8777-97AB077DF7AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7994F802-D97D-40BF-8777-97AB077DF7AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7994F802-D97D-40BF-8777-97AB077DF7AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C4CD0EB-6F2D-4D99-9A27-CE299B36723A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C4CD0EB-6F2D-4D99-9A27-CE299B36723A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C4CD0EB-6F2D-4D99-9A27-CE299B36723A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C4CD0EB-6F2D-4D99-9A27-CE299B36723A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
