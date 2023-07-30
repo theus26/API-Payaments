@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API-Pagamento", "API-Pagamento\API-Pagamento.csproj", "{7994F802-D97D-40BF-8777-97AB077DF7AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7994F802-D97D-40BF-8777-97AB077DF7AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7994F802-D97D-40BF-8777-97AB077DF7AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7994F802-D97D-40BF-8777-97AB077DF7AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7994F802-D97D-40BF-8777-97AB077DF7AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D463C68-12D1-419F-B97D-699F6312B169}
+	EndGlobalSection
+EndGlobal
