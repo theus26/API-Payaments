@@ -32,7 +32,7 @@ dotnet run
 
 ## Funcionalidades
 
-A API tem por funcionalidade validar o pagamento, e retorna se o pagamento foi ACEITO ou REJEITADO.
+A API tem por funcionalidade validar o pagamento, e retorna se o pagamento foi APROVADO ou REJEITADO.
 
 ela por sua vez, sera consumida por outra API, então verifique a porta para chamar o endereço correto na outra API.
 
